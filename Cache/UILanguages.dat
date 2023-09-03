@@ -9702,6 +9702,160 @@
                 "llname": "中文(繁體)",
                 "product": "PDFXEditor"
             }
+        },
+        "c:\\அறி\\apps\\ஆவணதிருத்திகள்\\எஆவமாதிருத்தி\\languages": {
+            "boxfs.ta.xcl": {
+                "ts": 133371758968863176,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "colorconvert.ta.xcl": {
+                "ts": 133371758968863176,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "csvtopdf.ta.xcl": {
+                "ts": 133371758968863176,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "dropbox.ta.xcl": {
+                "ts": 133371758968863176,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "fileopensh.ta.xcl": {
+                "ts": 133371758968863176,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "googledrive.ta.xcl": {
+                "ts": 133371758968863176,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "markdown.ta.xcl": {
+                "ts": 133371758968913268,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "ocrplugin.ta.xcl": {
+                "ts": 133371758968913268,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "onedrive.ta.xcl": {
+                "ts": 133371758968913268,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "pdfaconverter.ta.xcl": {
+                "ts": 133371758968913268,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "pdfconverter.ta.xcl": {
+                "ts": 133371758968913268,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "pdfoptimizer.ta.xcl": {
+                "ts": 133371758968913268,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "readoutloud.ta.xcl": {
+                "ts": 133371758968913268,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "sanitize.ta.xcl": {
+                "ts": 133371758968913268,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "sharepoint.ta.xcl": {
+                "ts": 133371758968913268,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "signaturepad.ta.xcl": {
+                "ts": 133371758968963982,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "spellchecker.ta.xcl": {
+                "ts": 133371758968963982,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "strings.ta.xcl": {
+                "ts": 133371758968963982,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            },
+            "u3dplugin.ta.xcl": {
+                "ts": 133371758969014068,
+                "lcid": 3082,
+                "lcode": "es-ES",
+                "lename": "Spanish",
+                "llname": "Español",
+                "product": "PDFXEditor"
+            }
         }
     }
 }
