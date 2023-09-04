@@ -9855,6 +9855,14 @@
                 "lename": "Spanish",
                 "llname": "Español",
                 "product": "PDFXEditor"
+            },
+            "xchange.ta-in.xcl": {
+                "ts": 133382749046493479,
+                "lcid": 1097,
+                "lcode": "ta-IN",
+                "lename": "Tamil (India)",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
             }
         }
     }
