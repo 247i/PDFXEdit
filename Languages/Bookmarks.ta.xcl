@@ -4,7 +4,7 @@
 	<Author></Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Tamil (India)" lName="தமிழ்" code="ta-IN" R2L="false"/>
+	<Language eName="Tamil" lName="தமிழ்" code="ta" R2L="false"/>
 	<Module name="BookmarksPlugin" namespace="bp" version="7.0.326.10"/>
 	<Strings/>
 </Localization>

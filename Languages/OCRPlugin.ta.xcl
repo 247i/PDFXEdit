@@ -4,7 +4,7 @@
 	<Author>LARAMJO y Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil (India)" lName="தமிழ்" code="ta-IN" R2L="false"/>
 	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.0"/>
 	<Strings>
 		<text id="OrientationDetection" h="40F7AA0E">Detección automática de la orientación</text>

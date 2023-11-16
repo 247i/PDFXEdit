@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil (India)" lName="தமிழ்" code="ta-IN" R2L="false"/>
 	<Module name="GoogleDrivePlugin" namespace="gd" version="8.0.337.0"/>
 	<Strings>
 		<text id="DlgOpenFile" h="B98AB29D">Abrir un archivo desde Google Drive</text>

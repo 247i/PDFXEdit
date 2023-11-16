@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil" lName="தமிழ்" code="ta" R2L="false"/>
 	<Module name="Dropbox" namespace="db" version="8.0.331.0"/>
 	<Strings>
 		<text id="btn.cancel" h="3D302A38">&amp;Cancelar</text>

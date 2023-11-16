@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil" lName="தமிழ்" code="ta" R2L="false"/>
 	<Module name="ReadOutLoud" namespace="speech" version="7.0.323.3"/>
 	<Strings>
 		<text id="opt.btn.test" h="D799C8E8">Lee este &amp;texto</text>

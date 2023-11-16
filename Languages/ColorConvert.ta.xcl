@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="Español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil" lName="தமிழ்" code="ta" R2L="false"/>
 	<Module name="ColorConvert" namespace="cc" version="8.0.337.0"/>
 	<Strings>
 		<text id="absolute.ri" h="2B4BF91A">Colorimétrico absoluto</text>

@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright>Los términos "desproteger" (check-out) y "proteger" (check-in) suenan extraños pero son los que usa Microsoft en su documentación.</Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil" lName="தமிழ்" code="ta" R2L="false"/>
 	<Module name="SharePoint" namespace="sp" version="8.0.331.0"/>
 	<Strings>
 		<text id="DlgAppPrefs.SharePoint.Name" h="56A5F9B3">SharePoint</text>

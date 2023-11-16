@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="Español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil" lName="தமிழ்" code="ta" R2L="false"/>
 	<Module name="CSVToPDFPlugin" namespace="csv" version="9.0.354.0"/>
 	<Strings>
 		<text id="DlgCSVToPDF" h="159649A7">De CSV a PDF</text>

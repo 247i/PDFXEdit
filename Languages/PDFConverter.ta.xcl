@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil (India)" lName="தமிழ்" code="ta-IN" R2L="false"/>
 	<Module name="PDFConverter" namespace="pdfconv" version="9.4.363.0"/>
 	<Strings>
 		<text id="AddLang" h="CE4DDC96">Añadir idioma...</text>

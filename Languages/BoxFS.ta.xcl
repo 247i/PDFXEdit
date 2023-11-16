@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="Español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil" lName="தமிழ்" code="ta" R2L="false"/>
 	<Module name="BoxFileSysPlugin" namespace="bx" version="7.0.327.10"/>
 	<Strings>
 		<text id="DlgOpenFile" h="86E98AB4">Abrir un archivo desde Box.com</text>

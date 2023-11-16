@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="Español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil (India)" lName="தமிழ்" code="ta-IN" R2L="false"/>
 	<Module name="OneDrivePlugin" namespace="od" version="7.0.327.10"/>
 	<Strings>
 		<text id="DlgOpenFile" h="F5F0D3C4">Abrir documento desde OneDrive</text>

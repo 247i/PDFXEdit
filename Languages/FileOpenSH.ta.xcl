@@ -4,7 +4,7 @@
 	<Author>Angel Herráez</Author>
 	<Copyright></Copyright>
 	<Product id="PDFXEditor"/>
-	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Language eName="Tamil" lName="தமிழ்" code="ta" R2L="false"/>
 	<Module name="FileOpenSH" namespace="fopw" version="7.0.323.3"/>
 	<Strings>
 		<text id="secure.printer.title" h="448D1D7F">Esta impressora no está permitida.</text>
