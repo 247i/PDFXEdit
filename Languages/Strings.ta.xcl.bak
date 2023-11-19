@@ -11,30 +11,30 @@
 		<text id="panzoomView" h="A23F9EDF">பனரம் மற்றும் பெரியதாக்கு</text>
 		<text id="commentStylesView" h="4A4DB254">கருத்து நடைகள் தட்டு</text>
 		<text id="stampsPalette" h="F9A75A1A">முத்திரை தட்டு</text>
-		<text id="stampsView" h="F9A75A1A">முத்திரை தட்டு</text>
-		<text id="searchView" h="5DC80D9A">தேடல்</text>
-		<text id="propertiesView" h="F6FFF0BE">பண்புகள்</text>
-		<text id="testCustomView" h="CDF6CF77">சோதனை தனிப்பயன் காட்சி</text>
-		<text id="docuSignView" h="637BA247">[ஆன்லைன்] %1</text>
-		<text id="pageThumbnailsView" h="47B1B2D9">சிறுபடங்கள்</text>
-		<text id="bookmarksView" h="E2032460">புக்மார்க்குகள்</text>
-		<text id="contentsView" h="B746D72E">உள்ளடக்கம்</text>
-		<text id="pdfNamedDestsView" h="A408B33C">பெயரிடப்பட்ட இலக்குகள்</text>
-		<text id="attachmentsView" h="461EB50E">இணைப்புகள்</text>
-		<text id="linksView" h="6E16975C">இணைப்புகள்</text>
-		<text id="signaturesView" h="FFBBDD5F">கையொப்பங்கள்</text>
-		<text id="commentsView" h="FA5EB905">கருத்துகள்</text>
-		<text id="layersView" h="DAB13CB0">அடுக்குகள்</text>
-		<text id="spellView" h="C89721C0">எழுத்துப்பிழை சரிபார்ப்பு</text>
-		<text id="fieldsView" h="5A38E9CA">புலங்கள்</text>
-		<text id="recoveryView" h="96DBBB05">ஆவண மீட்பு</text>
-		<text id="historyView" h="CBE9F677">வரலாறு</text>
-		<text id="3DModelTreeView" h="79880E5C">3D மாதிரி மரம்</text>
-		<text id="tagsView" h="4FD83BB3">குறிச்சொற்கள்</text>
-		<text id="orderView" h="FCAF6436">ஆர்டர்</text>
-		<text id="accCheckerView" h="DD565F6F">அணுகல் சோதனை</text>
-		<text id="accReportView" h="C7F9FEB0">அணுகல்நிலை அறிக்கை</text>
-		<text id="cmpDocsDiffsView" h="89E51105">வேறுபாடுகள்</text>
+		<text id="stampsView" h="F9A75A1A">Paleta de sellos</text>
+		<text id="searchView" h="5DC80D9A">Búsqueda</text>
+		<text id="propertiesView" h="F6FFF0BE">Propiedades</text>
+		<text id="testCustomView" h="CDF6CF77">Prueba de vista personalizada</text>
+		<text id="docuSignView" h="637BA247">[en línea] %1</text>
+		<text id="pageThumbnailsView" h="47B1B2D9">Miniaturas</text>
+		<text id="bookmarksView" h="E2032460">Marcadores</text>
+		<text id="contentsView" h="B746D72E">Contenido</text>
+		<text id="pdfNamedDestsView" h="A408B33C">Destinos con nombre</text>
+		<text id="attachmentsView" h="461EB50E">Adjuntos</text>
+		<text id="linksView" h="6E16975C">Enlaces</text>
+		<text id="signaturesView" h="FFBBDD5F">Firmas</text>
+		<text id="commentsView" h="FA5EB905">Comentarios</text>
+		<text id="layersView" h="DAB13CB0">Capas</text>
+		<text id="spellView" h="C89721C0">Revisión ortográfica</text>
+		<text id="fieldsView" h="5A38E9CA">Campos</text>
+		<text id="recoveryView" h="96DBBB05">Recuperación de documentos</text>
+		<text id="historyView" h="CBE9F677">Historial</text>
+		<text id="3DModelTreeView" h="79880E5C">Árbol del modelo 3D</text>
+		<text id="tagsView" h="4FD83BB3">Etiquetas</text>
+		<text id="orderView" h="FCAF6436">Orden</text>
+		<text id="accCheckerView" h="DD565F6F">Comprobación de accesibilidad</text>
+		<text id="accReportView" h="C7F9FEB0">Informe de accesibilidad</text>
+		<text id="cmpDocsDiffsView" h="89E51105">Diferencias</text>
 		<text id="AppTitle" h="FCE1BB2E">PDF-XChange Editor</text>
 		<text id="AppTitle.DelayedDocsWarn" h="365DF0F8">Algunos documentos están en cola para su apertura...</text>
 		<text id="UntitledDoc" h="5A425CCC">Sin título</text>
@@ -53,7 +53,7 @@
 		<text id="Unknown2" h="769B45E0">&lt;desconocido&gt;</text>
 		<text id="PinnedRecents" h="BA91A00A">Documentos anclados recientemente</text>
 		<text id="UnpinnedRecents" h="2C6F131B">Documentos recientes no anclados</text>
-		<text id="None" h="F9398D7D">இல்லை</text>
+		<text id="None" h="F9398D7D">Ninguno</text>
 		<text id="None2" h="18A77318">&lt;Ninguno&gt;</text>
 		<text id="Empty" h="DD007EC4">Vacío</text>
 		<text id="Empty2" h="99144F6A">&lt;vacío&gt;</text>
