@@ -53,7 +53,7 @@
 		<text id="Unknown2" h="769B45E0">&lt;தெரியாத&gt;</text>
 		<text id="PinnedRecents" h="BA91A00A">சமீபத்தில் தொகுக்கப்பட்ட ஆவணங்கள்</text>
 		<text id="UnpinnedRecents" h="2C6F131B">சமீபத்திய ஆவணங்கள் தொகுக்கப்படவில்லை</text>
-		<text id="இல்லை" h="F9398D7D">இல்லை</text>
+		<text id="None" h="F9398D7D">இல்லை</text>
 		<text id="None2" h="18A77318">&lt;இல்லை&gt;</text>
 		<text id="Empty" h="DD007EC4">காலி</text>
 		<text id="Empty2" h="99144F6A">&lt;காலி&gt;</text>
