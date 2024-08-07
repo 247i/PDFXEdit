@@ -12,6 +12,6 @@
 		<text id="btn.ok" h="FEF0C771">சரி</text>
 		<text id="btn.cancel" h="3D302A38">ரத்து</text>
 		<text id="About.Title" h="F2596574">பற்றி</text>
-		<text id="prefs.digisig.l.timestamping" h="A0C2BE89">• Manage timestamp servers</text>
+		<text id="prefs.digisig.l.timestamping" h="A0C2BE89">• நேரமுத்திரை சேவையகங்கள் நிர்வாகி</text>
 	</Strings>
 </Localization>

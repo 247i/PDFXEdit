@@ -9864,6 +9864,192 @@
                 "llname": "தமிழ்",
                 "product": "PDFXEditor"
             }
+        },
+        "d:\\பயன்\\ஆவணதிருத்திகள்\\எஆவமாதிருத்தி\\languages": {
+            "bookmarks.ta.xcl": {
+                "ts": 133665734128092967,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "boxfs.ta.xcl": {
+                "ts": 133665734128092967,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "colorconvert.ta.xcl": {
+                "ts": 133665734128092967,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "csvtopdf.ta.xcl": {
+                "ts": 133665734128092967,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "dropbox.ta.xcl": {
+                "ts": 133665734128092967,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "fileopensh.ta.xcl": {
+                "ts": 133665734128103320,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "googledrive.ta.xcl": {
+                "ts": 133665734128103320,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "markdown.ta.xcl": {
+                "ts": 133665734128103320,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "ocrplugin.ta.xcl": {
+                "ts": 133665734128103320,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "onedrive.ta.xcl": {
+                "ts": 133665734128103320,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "pdfaconverter.ta.xcl": {
+                "ts": 133665734128103320,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "pdfconverter.ta.xcl": {
+                "ts": 133665734128113068,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "pdfoptimizer.ta.xcl": {
+                "ts": 133665734128113068,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "pdftools.ta.xcl": {
+                "ts": 133665734128113068,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXTools"
+            },
+            "readoutloud.ta.xcl": {
+                "ts": 133665734128113068,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "sanitize.ta.xcl": {
+                "ts": 133665734128113068,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "sharepoint.ta.xcl": {
+                "ts": 133665734128113068,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "signaturepad.ta.xcl": {
+                "ts": 133665734128113068,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "spellchecker.ta.xcl": {
+                "ts": 133665734128123293,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "strings.ta.xcl": {
+                "ts": 133665734128153307,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "tracker.ta.xcl": {
+                "ts": 133665734128183280,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "TrackerUpdate"
+            },
+            "u3dplugin.ta.xcl": {
+                "ts": 133665734128193234,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            },
+            "xchange.ta.xcl": {
+                "ts": 133675177170096068,
+                "lcid": 1097,
+                "lcode": "ta",
+                "lename": "Tamil",
+                "llname": "தமிழ்",
+                "product": "PDFXEditor"
+            }
         }
     }
 }
